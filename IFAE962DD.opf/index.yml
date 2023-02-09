@@ -1,0 +1,11 @@
+id: 0d85d6b57b8d4988a9fa0a22e3600d8e
+annotation_type: index
+revision: '00001'
+annotations:
+  cf7e62c8993840f386b36ddecf304972:
+    base: FEEF.txt
+    Chapters:
+    - title: Kaṭhinavastu
+      span:
+        start: 0
+        end: 28428
